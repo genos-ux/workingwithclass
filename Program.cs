@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Bank bankA = new Bank(){Amount = 100};
-            Bank bankB = new Bank(){Amount = 150};
-            Bank bankC = new Bank(){Amount = 200};
+            Bank bankA = new Bank(){Deposit = 100};
+            Bank bankB = new Bank(){Deposit = 150};
+            Bank bankC = new Bank(){Deposit = 200};
 
             bankA.getBalance();
             bankB.getBalance();

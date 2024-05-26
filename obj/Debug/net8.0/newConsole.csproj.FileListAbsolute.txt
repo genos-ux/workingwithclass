@@ -12,3 +12,4 @@ C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\refint\newConsole.dl
 C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.pdb
 C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.genruntimeconfig.cache
 C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\ref\newConsole.dll
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.sourcelink.json
