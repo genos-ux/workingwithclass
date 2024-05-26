@@ -1,0 +1,14 @@
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\bin\Debug\net8.0\newConsole.exe
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\bin\Debug\net8.0\newConsole.deps.json
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\bin\Debug\net8.0\newConsole.runtimeconfig.json
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\bin\Debug\net8.0\newConsole.dll
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\bin\Debug\net8.0\newConsole.pdb
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.AssemblyInfoInputs.cache
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.AssemblyInfo.cs
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.dll
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\refint\newConsole.dll
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.pdb
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\newConsole.genruntimeconfig.cache
+C:\Users\Mr Hihihi\Desktop\.NET\newConsole\obj\Debug\net8.0\ref\newConsole.dll
